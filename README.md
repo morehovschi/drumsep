@@ -1,5 +1,5 @@
 # drumsep
-A demonstration of a Convolutional Neural Network for drum signal separation from full mixes. 
+A Convolutional Neural Network for drum signal separation from full mixes. 
 
 For a quick demontration, do any of the following:
 - watch this short video https://drive.google.com/file/d/1TXTkHynMJmXa_CawrM5GT_Lk6eah4BbE/view?usp=sharing
