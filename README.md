@@ -10,4 +10,4 @@ Method based on this this paper by K. W. E. Lin, B. Balamurali, E. Koh, S. Lui, 
 
 ... and this tutorial by Ale Koretzky: https://towardsdatascience.com/audio-ai-isolating-vocals-from-stereo-music-using-convolutional-neural-networks-210532383785
 
-Network trained on the MUSDB18-HQ dataset: https://sigsep.github.io/datasets/musdb.html#musdb18-compressed-stems
+Network trained on the MUSDB18-HQ dataset: https://sigsep.github.io/datasets/musdb.html#musdb18-hq-uncompressed-wav
