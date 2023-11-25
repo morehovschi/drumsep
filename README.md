@@ -2,8 +2,8 @@
 A Convolutional Neural Network for drum signal separation from full mixes. 
 
 For a quick demontration, do any of the following:
-- run the network on your own recording by:<br> 1. cloning this repository on your machine<br> 2. installing the required packages `pip install -r requirements.txt`<br> 3. running the program on your own WAVE file `python3 evaluate.py <input_audio_path> <output_audio_path>`
-- watch this short video https://drive.google.com/file/d/1TXTkHynMJmXa_CawrM5GT_Lk6eah4BbE/view?usp=sharing
+- run the network on your own recording by:<br> 1. cloning this repository on your machine<br> 2. in a python3.7 environment, installing the required packages `pip install -r requirements.txt`<br> 3. running the program on your own WAVE or mp3 file `python3 evaluate.py <input_audio_path> <output_audio_path>`; or using the provided file snippet.wav (which was not used during training)
+- watch this short video https://drive.google.com/file/d/1XmyjkJd7u3MMCC3NKeiOHhJ2nZe7ohR_/view?usp=drive_link
 - open up the evaluate.ipynb notebook with an IPython kernel and play the audio in the cell outputs
 
 Method based on this this paper by K. W. E. Lin, B. Balamurali, E. Koh, S. Lui, and D. Herremans: https://arxiv.org/abs/1812.01278 

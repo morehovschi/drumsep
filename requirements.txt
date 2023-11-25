@@ -1,3 +1,7 @@
-tensorflow>=2.0
-librosa
+tensorflow==2.0.1
+librosa==0.6.3
+h5py==2.10.0
+protobuf==3.20.0
+resampy==0.3.1
+numba==0.48
 numpy
